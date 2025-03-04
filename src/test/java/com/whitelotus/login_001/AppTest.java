@@ -11,7 +11,7 @@ public class AppTest {
 
     @Test
     public void shouldAnswerWithTrue() {
-    	System.out.println("Testing git");
+    	System.out.println("Checkout test");
         assertTrue(true);
     }
 }
