@@ -1,1 +1,1 @@
-Ready for nes structure
+Ready for new structure
